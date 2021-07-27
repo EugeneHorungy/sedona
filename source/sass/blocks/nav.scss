@@ -1,0 +1,15 @@
+.nav__list {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav__list-link {
+  display: block;
+  padding: 15px 15px 15px 15px;
+  text-transform: uppercase;
+  background-color: yellow;
+}

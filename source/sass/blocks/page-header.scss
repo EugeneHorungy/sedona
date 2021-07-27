@@ -1,0 +1,14 @@
+.page-header {
+  position: relative;
+  background-color: white;
+}
+
+.page-header__logo {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  right: 50%;
+  width: 197px;
+  height: 97px;
+  transform: translate(-50%);
+}
